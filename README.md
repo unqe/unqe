@@ -11,7 +11,7 @@
 
 <br>
 
-[![Profile Views](https://camo.githubusercontent.com/e7650c6328ceca9045043b04914fddeeff542d18e1e4eec57f7724693351b4db/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d756e716526636f6c6f723d374630304646267374796c653d666c6174)](https://github.com/unqe)
+[![Profile Views](https://komarev.com/ghpvc/?username=unqe&style=for-the-badge&color=7C3AED&label=Profile+Views)](https://github.com/unqe)
 [![GitHub Followers](https://img.shields.io/github/followers/unqe?style=for-the-badge&color=8B5CF6&labelColor=2D1B69&logo=github&label=Followers)](https://github.com/unqe)
 [![Total Stars](https://img.shields.io/github/stars/unqe?style=for-the-badge&color=9333EA&labelColor=2D1B69&logo=github&label=Total+Stars&affiliations=OWNER)](https://github.com/unqe?tab=repositories)
 [![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=A855F7&labelColor=2D1B69&logo=github&label=Repositories&query=$.public_repos&url=https://api.github.com/users/unqe)](https://github.com/unqe?tab=repositories)
