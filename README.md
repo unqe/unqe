@@ -83,6 +83,10 @@
 <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
 <br>Rust
 </td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
 </tr>
 </table>
 
