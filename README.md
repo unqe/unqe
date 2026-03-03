@@ -26,10 +26,13 @@
 
 ## 👋 About Me
 
-> **Learning Developer** passionate about crafting elegant web applications and exploring new technologies.  
-> Still on my journey, constantly learning and improving my skills every day.  
-> Currently diving deep into **modern frameworks**, **cloud technologies**, and **best practices**.  
-> Open to **collaboration**, **mentorship**, and always eager to take on new challenges!
+> i build things across the stack — web apps, APIs, Discord bots, CLI tools, scripts, you name it.  
+> no fixed "main" language, i just pick whatever fits the problem (and sometimes whichever I feel like that day).  
+> usually have 3 projects on the go, finishing about 1 of them.  
+> currently deep in **Rust** and backend work — always something new on the radar though.  
+> open to collabs, building cool stuff, or just talking about tech.  
+> `// fresh account — old one had a rough ending`  
+> `// yes that comment was intentional, no i won't elaborate`
 
 </div>
 
