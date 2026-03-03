@@ -183,21 +183,24 @@
 ### 🔨 Building
 
 ```yaml
-Portfolio Website:
-  status: Planning & Design Phase
-  goals:
-    - Showcase projects & skills
-    - Modern interactive design
-    - Smooth animations
-    - Responsive & accessible
-    
-Dev Tools & Utilities:
-  type: Open Source projects
-  focus: Developer productivity
-  
-Web Applications:
-  exploring: Full-stack architecture
-  technologies: Modern frameworks & tools
+Portfolio:
+  stack: React + Tailwind, probably
+  status: in progress (yes, still)
+  deadline: whenever i stop redesigning the homepage
+
+Backend APIs:
+  stack: Django + Postgres, Node + Express
+  status: always one in progress
+  extras: Redis for caching, Heroku/VPS deploys
+
+Discord bots & automation:
+  langs: Python, Node.js
+  type: utility bots, webhook integrations
+  latest: open sourcing it soon ("soon")
+
+CLI tools:
+  lang: Rust
+  reason: fast, no runtime, genuinely fun to write
 ```
 
 </td>
@@ -206,21 +209,23 @@ Web Applications:
 ### 📚 Exploring
 
 ```yaml
-Systems Programming:
-  - Go for microservices
-  - Rust for performance
-  
-Backend Frameworks:
-  - Django for Python web apps
-  - Advanced patterns & architecture
-  
-Cloud Native:
-  - Kubernetes orchestration
-  - Container orchestration
-  
-API Development:
-  - GraphQL schemas
-  - REST best practices
+Rust:
+  - ownership, lifetimes, borrow checker (still my nemesis)
+  - building CLI tools to actually get comfortable with it
+  - goal: ship something real with it this year
+
+Infrastructure:
+  - self-hosted VPS, Nginx, systemd
+  - GitHub Actions (CI/CD — this repo has one)
+  - understanding how deploys actually work end to end
+
+Real-time:
+  - WebSockets, SSE
+  - digging into how Discord's gateway API works
+
+On the radar:
+  - Go for small, fast APIs
+  - reading more about compilers (no seriously)
 ```
 
 </td>
