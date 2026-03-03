@@ -2,7 +2,6 @@
 
 <div align="center" style="font-family: 'Poppins', sans-serif;">
 
-<!-- Purple Gradient Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8B5CF6,50:A78BFA,100:C084FC&text=unqe&fontSize=80&fontAlignY=35&fontColor=fff&desc=dev.%20builder.%20too%20many%20tabs%20open.&descAlignY=55&descSize=18&animation=twinkling" />
 
 <br>
@@ -270,7 +269,7 @@ On the radar:
 
 <div align="center">
 
-### 💭 *"Code is poetry written in logic"*
+### 💭 *"if it works don't touch it — unless you're me"*
 
 ![Snake animation](https://raw.githubusercontent.com/unqe/unqe/snake-output/github-contribution-grid-snake-dark.svg)
 
