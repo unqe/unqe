@@ -80,6 +80,14 @@
 <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
 <br>Express
 </td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br>Django
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+<br>Rust
+</td>
 </tr>
 </table>
 
@@ -133,6 +141,10 @@
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
 <br>Vercel
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="Heroku" />
+<br>Heroku
 </td>
 </tr>
 </table>
