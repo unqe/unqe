@@ -3,11 +3,11 @@
 <div align="center" style="font-family: 'Poppins', sans-serif;">
 
 <!-- Purple Gradient Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8B5CF6,50:A78BFA,100:C084FC&text=unqe&fontSize=80&fontAlignY=35&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20Creative%20Problem%20Solver&descAlignY=55&descSize=16&animation=twinkling&t=20260122" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8B5CF6,50:A78BFA,100:C084FC&text=unqe&fontSize=80&fontAlignY=35&fontColor=fff&desc=dev.%20builder.%20too%20many%20tabs%20open.&descAlignY=55&descSize=18&animation=twinkling" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Crafting+elegant+digital+experiences;Building+scalable+web+applications;Always+learning%2C+always+growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=building+things+across+the+stack;bots%2C+APIs%2C+tools%2C+scripts+%E2%80%94+all+of+it;if+it+compiles%2C+ship+it" alt="Typing SVG" />
 
 <br>
 
