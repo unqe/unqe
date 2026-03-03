@@ -1,6 +1,4 @@
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-
-<div align="center" style="font-family: 'Poppins', sans-serif;">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8B5CF6,50:A78BFA,100:C084FC&text=unqe&fontSize=80&fontAlignY=35&fontColor=fff&desc=dev.%20builder.%20too%20many%20tabs%20open.&descAlignY=55&descSize=18&animation=twinkling" />
 
@@ -242,7 +240,7 @@ On the radar:
 
 [![Spotify](https://lanyard.cnrad.dev/api/1434911868748566689?theme=dark&bg=0d1117&animated=true&hideDiscord=true&hideProfile=true&hideStatus=true&hideBadges=true&hideTimestamp=false&hideActivity=whenNotUsed&borderRadius=20px&idleMessage=Nothing%20playing%20right%20now)](https://open.spotify.com/user/8iozofla8whu6nkowbwomouwc)
 
-<sub>🎶 Listen while im coding!</sub>
+<sub>🎶 listen while i'm coding!</sub>
 
 </div>
 
