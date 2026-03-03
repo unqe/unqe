@@ -159,8 +159,7 @@
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=unqe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A855F7&text_color=c9d1d9&include_all_commits=true&count_private=true&ring_color=8B5CF6&border_radius=10" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unqe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&langs_count=6&hide=html,css&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=unqe&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakNum=C084FC&currStreakLabel=A78BFA&sideNums=A855F7&sideLabels=9CA3AF&dates=6B7280&stroke=2D1B69&border_radius=10" />
 
 <br><br>
 
